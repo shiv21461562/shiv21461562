@@ -1,4 +1,4 @@
-![logp](https://github.com/shiv21461562/shiv21461562/blob/main/IMG_8968.JPG)
+
 <h1 align="center">Hi 👋, I'm shiv</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
